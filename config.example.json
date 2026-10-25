@@ -1,0 +1,391 @@
+{
+  "locations": [
+    "Louisville, KY"
+  ],
+  "states": [
+    "kentucky",
+    ", ky"
+  ],
+  "radius_miles": 40,
+  "include_remote": true,
+  "max_days_old": 21,
+  "min_score": 40,
+  "alert_min_score": 60,
+  "adzuna_app_id": "",
+  "adzuna_app_key": "",
+  "ntfy_topic": "",
+  "slack_webhook_url": "",
+  "watchlist": [
+    {
+      "name": "Kentuckians For The Commonwealth",
+      "slugs": [
+        "kftc"
+      ]
+    },
+    {
+      "name": "ACLU of Kentucky",
+      "slugs": [
+        "acluky",
+        "aclukentucky"
+      ]
+    },
+    {
+      "name": "Kentucky Equal Justice Center",
+      "slugs": [
+        "kyequaljustice",
+        "kejc"
+      ]
+    },
+    {
+      "name": "Kentucky Center for Economic Policy",
+      "slugs": [
+        "kycep"
+      ]
+    },
+    {
+      "name": "Kentucky Youth Advocates",
+      "slugs": [
+        "kyyouth",
+        "kyyouthadvocates"
+      ]
+    },
+    {
+      "name": "Kentucky Voices for Health",
+      "slugs": [
+        "kyvoicesforhealth"
+      ]
+    },
+    {
+      "name": "Kentucky Resources Council",
+      "slugs": [
+        "kyrc"
+      ]
+    },
+    {
+      "name": "Louisville Urban League",
+      "slugs": [
+        "lul",
+        "louisvilleurbanleague"
+      ]
+    },
+    {
+      "name": "Metro United Way",
+      "slugs": [
+        "metrounitedway"
+      ]
+    },
+    {
+      "name": "Community Foundation of Louisville",
+      "slugs": [
+        "cflouisville"
+      ]
+    },
+    {
+      "name": "Fund for the Arts",
+      "slugs": [
+        "fundforthearts"
+      ]
+    },
+    {
+      "name": "Kentucky Nonprofit Network",
+      "slugs": [
+        "kynonprofits",
+        "kynonprofitnetwork"
+      ]
+    },
+    {
+      "name": "Kentucky Refugee Ministries",
+      "slugs": [
+        "kyrm"
+      ]
+    },
+    {
+      "name": "Appalachian Voices",
+      "slugs": [
+        "appvoices"
+      ]
+    },
+    {
+      "name": "Kentucky Conservation Committee",
+      "slugs": [
+        "kyconservation"
+      ]
+    },
+    {
+      "name": "Mountain Association",
+      "slugs": [
+        "mtassociation"
+      ]
+    },
+    {
+      "name": "ACLU",
+      "slugs": [
+        "aclu"
+      ]
+    },
+    {
+      "name": "Common Cause",
+      "slugs": [
+        "commoncause"
+      ]
+    },
+    {
+      "name": "League of Women Voters",
+      "slugs": [
+        "lwv"
+      ]
+    },
+    {
+      "name": "Brennan Center for Justice",
+      "slugs": [
+        "brennancenter"
+      ]
+    },
+    {
+      "name": "Campaign Legal Center",
+      "slugs": [
+        "campaignlegalcenter",
+        "clc"
+      ]
+    },
+    {
+      "name": "NAACP",
+      "slugs": [
+        "naacp"
+      ]
+    },
+    {
+      "name": "NAACP Legal Defense Fund",
+      "slugs": [
+        "naacpldf",
+        "ldf"
+      ]
+    },
+    {
+      "name": "Southern Poverty Law Center",
+      "slugs": [
+        "splcenter",
+        "splc"
+      ]
+    },
+    {
+      "name": "Color Of Change",
+      "slugs": [
+        "colorofchange"
+      ]
+    },
+    {
+      "name": "Indivisible",
+      "slugs": [
+        "indivisible"
+      ]
+    },
+    {
+      "name": "MoveOn",
+      "slugs": [
+        "moveon"
+      ]
+    },
+    {
+      "name": "Working Families Party",
+      "slugs": [
+        "workingfamilies",
+        "wfp"
+      ]
+    },
+    {
+      "name": "Sunrise Movement",
+      "slugs": [
+        "sunrisemovement"
+      ]
+    },
+    {
+      "name": "Sierra Club",
+      "slugs": [
+        "sierraclub"
+      ]
+    },
+    {
+      "name": "Environmental Defense Fund",
+      "slugs": [
+        "edf"
+      ]
+    },
+    {
+      "name": "NRDC",
+      "slugs": [
+        "nrdc"
+      ]
+    },
+    {
+      "name": "Earthjustice",
+      "slugs": [
+        "earthjustice"
+      ]
+    },
+    {
+      "name": "Greenpeace USA",
+      "slugs": [
+        "greenpeaceusa"
+      ]
+    },
+    {
+      "name": "350.org",
+      "slugs": [
+        "350"
+      ]
+    },
+    {
+      "name": "Human Rights Campaign",
+      "slugs": [
+        "hrc"
+      ]
+    },
+    {
+      "name": "Everytown for Gun Safety",
+      "slugs": [
+        "everytown"
+      ]
+    },
+    {
+      "name": "Planned Parenthood Federation of America",
+      "slugs": [
+        "ppfa"
+      ]
+    },
+    {
+      "name": "Center for American Progress",
+      "slugs": [
+        "americanprogress",
+        "cap"
+      ]
+    },
+    {
+      "name": "Public Citizen",
+      "slugs": [
+        "publiccitizen"
+      ]
+    },
+    {
+      "name": "Demos",
+      "slugs": [
+        "demos"
+      ]
+    },
+    {
+      "name": "Voto Latino",
+      "slugs": [
+        "votolatino"
+      ]
+    },
+    {
+      "name": "Rock the Vote",
+      "slugs": [
+        "rockthevote"
+      ]
+    },
+    {
+      "name": "When We All Vote",
+      "slugs": [
+        "whenweallvote"
+      ]
+    },
+    {
+      "name": "NextGen America",
+      "slugs": [
+        "nextgenamerica"
+      ]
+    },
+    {
+      "name": "Fair Fight",
+      "slugs": [
+        "fairfight"
+      ]
+    },
+    {
+      "name": "Black Voters Matter",
+      "slugs": [
+        "blackvotersmatter"
+      ]
+    },
+    {
+      "name": "Mijente",
+      "slugs": [
+        "mijente"
+      ]
+    },
+    {
+      "name": "Alliance for Justice",
+      "slugs": [
+        "afj"
+      ]
+    },
+    {
+      "name": "Faith in Action",
+      "slugs": [
+        "faithinaction"
+      ]
+    },
+    {
+      "name": "Community Change",
+      "slugs": [
+        "communitychange"
+      ]
+    },
+    {
+      "name": "Center for Popular Democracy",
+      "slugs": [
+        "populardemocracy",
+        "cpd"
+      ]
+    },
+    {
+      "name": "National Domestic Workers Alliance",
+      "slugs": [
+        "domesticworkers",
+        "ndwa"
+      ]
+    },
+    {
+      "name": "Mi Familia Vota",
+      "slugs": [
+        "mifamiliavota"
+      ]
+    },
+    {
+      "name": "Jobs With Justice",
+      "slugs": [
+        "jwj"
+      ]
+    },
+    {
+      "name": "Americans for Prosperity",
+      "slugs": [
+        "afp"
+      ]
+    },
+    {
+      "name": "Habitat for Humanity",
+      "slugs": [
+        "habitat"
+      ]
+    },
+    {
+      "name": "Feeding America",
+      "slugs": [
+        "feedingamerica"
+      ]
+    },
+    {
+      "name": "United Way Worldwide",
+      "slugs": [
+        "unitedway"
+      ]
+    }
+  ],
+  "adzuna_hours_utc": [
+    12,
+    17,
+    22
+  ]
+}
