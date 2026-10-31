@@ -7,11 +7,11 @@
   "remote": false,
   "salary": "$45,760-$45,760",
   "posted": "2026-10-25",
-  "link": "Open posting",
+  "link": "https://www.adzuna.com/details/5941474378?utm_medium=api&utm_source=01e03545",
   "source": "Adzuna",
-  "score": 84,
+  "score": 79,
   "firstSeen": "2026-10-28",
-  "lastSeen": "2026-10-28"
+  "lastSeen": "2026-10-31"
  },
  {
   "id": "30f3c62085ca",
@@ -35,11 +35,11 @@
   "remote": false,
   "salary": "$35,360-$49,920",
   "posted": "2026-10-18",
-  "link": "Open posting",
+  "link": "https://www.adzuna.com/details/5933376519?utm_medium=api&utm_source=01e03545",
   "source": "Adzuna",
   "score": 75,
   "firstSeen": "2026-10-28",
-  "lastSeen": "2026-10-28"
+  "lastSeen": "2026-10-31"
  },
  {
   "id": "6e8cef3bfdea",
@@ -47,13 +47,13 @@
   "org": "GE Appliances",
   "location": "Louisville, Jefferson County",
   "remote": false,
-  "salary": "$76,219-$76,219",
+  "salary": "$75,804-$75,804",
   "posted": "2026-10-22",
-  "link": "Open posting",
+  "link": "https://www.adzuna.com/details/5937580066?utm_medium=api&utm_source=01e03545",
   "source": "Adzuna",
   "score": 75,
   "firstSeen": "2026-10-28",
-  "lastSeen": "2026-10-28"
+  "lastSeen": "2026-10-31"
  },
  {
   "id": "e4ca2b2ba60f",
@@ -77,11 +77,11 @@
   "remote": true,
   "salary": "$68,402-$68,402",
   "posted": "2026-10-27",
-  "link": "Open posting",
+  "link": "https://www.adzuna.com/details/5943618245?utm_medium=api&utm_source=01e03545",
   "source": "Adzuna",
-  "score": 70,
+  "score": 65,
   "firstSeen": "2026-10-28",
-  "lastSeen": "2026-10-28"
+  "lastSeen": "2026-10-31"
  },
  {
   "id": "67eb5ce931cd",
@@ -91,11 +91,11 @@
   "remote": false,
   "salary": "$53,726-$53,726",
   "posted": "2026-10-25",
-  "link": "Open posting",
+  "link": "https://www.adzuna.com/details/5941288139?utm_medium=api&utm_source=01e03545",
   "source": "Adzuna",
-  "score": 55,
+  "score": 50,
   "firstSeen": "2026-10-28",
-  "lastSeen": "2026-10-28"
+  "lastSeen": "2026-10-31"
  },
  {
   "id": "14064eb9cf0b",
@@ -105,11 +105,11 @@
   "remote": false,
   "salary": "$45,760-$47,840",
   "posted": "2026-10-21",
-  "link": "Open posting",
+  "link": "https://www.adzuna.com/details/5936744209?utm_medium=api&utm_source=01e03545",
   "source": "Adzuna",
   "score": 50,
   "firstSeen": "2026-10-28",
-  "lastSeen": "2026-10-28"
+  "lastSeen": "2026-10-31"
  },
  {
   "id": "db5c8dc97894",
@@ -119,10 +119,66 @@
   "remote": true,
   "salary": "$41,600-$41,600",
   "posted": "2026-10-22",
-  "link": "Open posting",
+  "link": "https://www.adzuna.com/details/5938014931?utm_medium=api&utm_source=01e03545",
   "source": "Adzuna",
   "score": 40,
   "firstSeen": "2026-10-28",
-  "lastSeen": "2026-10-28"
+  "lastSeen": "2026-10-31"
+ },
+ {
+  "id": "2eee0ad84a14",
+  "title": "Youth Field Organizer (Remote in Oklahoma)",
+  "org": "The Company Rescue",
+  "location": "Oklahoma City, Oklahoma County",
+  "remote": true,
+  "salary": "$44,000-$44,000",
+  "posted": "2026-10-29",
+  "link": "https://www.adzuna.com/land/ad/5945525671?se=IoP5yHnV8RGzkfY_QG7FnA&utm_medium=api&utm_source=01e03545&v=C4C692F006A500C19707D12992421DCC376E48C2",
+  "source": "Adzuna",
+  "score": 82,
+  "firstSeen": "2026-10-31",
+  "lastSeen": "2026-10-31"
+ },
+ {
+  "id": "a7df264e76b5",
+  "title": "Youth Field Organizer (Remote in Oklahoma)",
+  "org": "The Company Rescue",
+  "location": "Lawton, Comanche County",
+  "remote": true,
+  "salary": "$44,000-$44,000",
+  "posted": "2026-10-29",
+  "link": "https://www.adzuna.com/land/ad/5945495482?se=IoP5yHnV8RGzkfY_QG7FnA&utm_medium=api&utm_source=01e03545&v=0834637EC71927851DC051DF3515C020D2AC9AB0",
+  "source": "Adzuna",
+  "score": 82,
+  "firstSeen": "2026-10-31",
+  "lastSeen": "2026-10-31"
+ },
+ {
+  "id": "6cd690215cb3",
+  "title": "Program Coordinator, Peace Hospital, Weekend, 7a-7p",
+  "org": "UofL Health",
+  "location": "Louisville, Jefferson County",
+  "remote": false,
+  "salary": "$83,402-$83,402",
+  "posted": "2026-10-30",
+  "link": "https://www.adzuna.com/details/5946763166?utm_medium=api&utm_source=01e03545",
+  "source": "Adzuna",
+  "score": 80,
+  "firstSeen": "2026-10-31",
+  "lastSeen": "2026-10-31"
+ },
+ {
+  "id": "1c3f845092ed",
+  "title": "Marketing / Content Assistant",
+  "org": "Turf Casa",
+  "location": "Lakeway, Travis County",
+  "remote": true,
+  "salary": "$63,612-$63,612",
+  "posted": "2026-10-29",
+  "link": "https://www.adzuna.com/details/5945285651?utm_medium=api&utm_source=01e03545",
+  "source": "Adzuna",
+  "score": 45,
+  "firstSeen": "2026-10-31",
+  "lastSeen": "2026-10-31"
  }
 ]
