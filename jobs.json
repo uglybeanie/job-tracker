@@ -7,11 +7,11 @@
   "remote": false,
   "salary": "$45,760-$45,760",
   "posted": "2026-10-25",
-  "link": "Open posting",
+  "link": "https://www.adzuna.com/details/5941474378?utm_medium=api&utm_source=01e03545",
   "source": "Adzuna",
   "score": 79,
   "firstSeen": "2026-10-28",
-  "lastSeen": "2026-11-07"
+  "lastSeen": "2026-11-10"
  },
  {
   "id": "30f3c62085ca",
@@ -77,11 +77,11 @@
   "remote": true,
   "salary": "$68,402-$68,402",
   "posted": "2026-10-27",
-  "link": "Open posting",
+  "link": "https://www.adzuna.com/details/5943618245?utm_medium=api&utm_source=01e03545",
   "source": "Adzuna",
   "score": 65,
   "firstSeen": "2026-10-28",
-  "lastSeen": "2026-11-07"
+  "lastSeen": "2026-11-10"
  },
  {
   "id": "67eb5ce931cd",
@@ -161,11 +161,11 @@
   "remote": false,
   "salary": "$83,402-$83,402",
   "posted": "2026-10-30",
-  "link": "Open posting",
+  "link": "https://www.adzuna.com/details/5946763166?utm_medium=api&utm_source=01e03545",
   "source": "Adzuna",
   "score": 75,
   "firstSeen": "2026-10-31",
-  "lastSeen": "2026-11-07"
+  "lastSeen": "2026-11-10"
  },
  {
   "id": "1c3f845092ed",
@@ -189,10 +189,24 @@
   "remote": false,
   "salary": "$57,028-$57,028",
   "posted": "2026-11-04",
-  "link": "Open posting",
+  "link": "https://www.adzuna.com/land/ad/5953056242?se=VPFohS3d8RG2ju3U9MuxdQ&utm_medium=api&utm_source=01e03545&v=C01733F36EA1275CA5C66C429AD7E60C37FA5A15",
+  "source": "Adzuna",
+  "score": 50,
+  "firstSeen": "2026-11-07",
+  "lastSeen": "2026-11-10"
+ },
+ {
+  "id": "6fc9805b5305",
+  "title": "Library Programs Coordinator",
+  "org": "Louisville Metro Government",
+  "location": "Louisville, Jefferson County",
+  "remote": false,
+  "salary": "$48,734-$48,734",
+  "posted": "2026-11-08",
+  "link": "https://www.adzuna.com/details/5958032725?utm_medium=api&utm_source=01e03545",
   "source": "Adzuna",
   "score": 55,
-  "firstSeen": "2026-11-07",
-  "lastSeen": "2026-11-07"
+  "firstSeen": "2026-11-10",
+  "lastSeen": "2026-11-10"
  }
 ]
